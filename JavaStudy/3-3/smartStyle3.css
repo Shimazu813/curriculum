@@ -1,0 +1,42 @@
+/*ウィンドウ幅が最大479pxまでの場合に適用*/
+@media screen and (max-width: 479px) {
+
+    .header {
+       width: 200px;
+       height: 200px;
+    }
+
+    .box1-parent {
+        width: 60px;
+        height: 160px;
+        margin-right: 70px;
+    }
+
+    .left {
+        width: 200px;
+        float: none;                         
+    }
+
+    .right {                     
+        width: 200px;
+        height: 210px;
+    }
+
+    .box-1 {
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+    
+    .box-2 {    
+        margin-left: 25px;
+    }
+
+    .box-3 {
+        margin-left: 25px;
+    }
+
+    .footer {
+        width: 200px;
+    }
+
+}
