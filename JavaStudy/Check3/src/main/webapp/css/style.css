@@ -1,0 +1,35 @@
+.main {
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+td {
+	border: 1px gray solid;
+	width: 150px;
+
+}
+
+.header1 {
+	background-color: gray;
+}
+
+.label1 {
+	display: inline-block;
+    padding: 10px;
+    color: white;
+}
+
+.label2 {
+	padding: 10px;
+    font-size: 10px;
+}
+
+.footer1 {
+	background-color: gray;
+}
+
+.label3 {
+	display: inline-block;
+    padding: 10px;
+    color: white;
+}
